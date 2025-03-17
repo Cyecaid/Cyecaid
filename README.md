@@ -20,9 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-###</h2>
-</div>
-
 <div align="center">
   <h2>My C# projects</h2>
   
