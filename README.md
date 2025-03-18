@@ -23,14 +23,14 @@
 <div align="center">
   <h2>My C# projects</h2>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grinik767&repo=fi.Journal-Backend&theme=dark)](https://github.com/Grinik767/fi.Journal-Backend)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RevaVlad&repo=UnityGame&theme=dark)](https://github.com/RevaVlad/UnityGame)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grinik767&repo=fi.Journal-Backend&theme=dark&cache_seconds=60)](https://github.com/Grinik767/fi.Journal-Backend)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RevaVlad&repo=UnityGame&theme=dark&cache_seconds=60)](https://github.com/RevaVlad/UnityGame)
 
 </div>
 
 <div align="center">
   <h2>My Python projects</h2>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cyecaid&repo=gifAnalyzator&theme=dark)](https://github.com/Cyecaid/gifAnalyzator)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grinik767&repo=Clouds&theme=dark)](https://github.com/Grinik767/Clouds)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cyecaid&repo=gifAnalyzator&theme=dark&cache_seconds=60)](https://github.com/Cyecaid/gifAnalyzator)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grinik767&repo=Clouds&theme=dark&cache_seconds=60)](https://github.com/Grinik767/Clouds)
 </div>
